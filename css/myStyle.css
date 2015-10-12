@@ -1,0 +1,22 @@
+#popup {
+    position:absolute; 
+    margin: 5% 20%; 
+    border: 3px solid gray; 
+    width: 50%; height: 40%; 
+    background: white;
+    padding: 20px;
+    min-height: 350px;
+}
+
+.free {
+    background-color: white;
+}
+
+.buzy {
+    background-color: #d8ffff;
+}
+
+body {
+    font-family: 'Indie Flower', cursive !important;
+    font-size: 17px !important;
+}
